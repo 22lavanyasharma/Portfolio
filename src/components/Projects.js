@@ -16,6 +16,7 @@ export const Projects = () => {
       title: "PROJECT :",
       description: "Python",
       imgUrl: projImg1,
+      link: "https://github.com/22lavanyasharma/flappy_bird"
     },
     {
       title: "PROJECT :",
